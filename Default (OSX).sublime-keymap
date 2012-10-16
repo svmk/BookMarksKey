@@ -1,0 +1,23 @@
+[
+  { "keys": ["ctrl+shift+0"], "command": "book_marks_key_set_zero" },
+  { "keys": ["ctrl+shift+1"], "command": "book_marks_key_set_one" },
+  { "keys": ["ctrl+shift+2"], "command": "book_marks_key_set_two" },
+  { "keys": ["ctrl+shift+3"], "command": "book_marks_key_set_three" },
+  { "keys": ["ctrl+shift+4"], "command": "book_marks_key_set_four" },
+  { "keys": ["ctrl+shift+5"], "command": "book_marks_key_set_five" },
+  { "keys": ["ctrl+shift+6"], "command": "book_marks_key_set_six" },
+  { "keys": ["ctrl+shift+7"], "command": "book_marks_key_set_seven" },
+  { "keys": ["ctrl+shift+8"], "command": "book_marks_key_set_eight" },
+  { "keys": ["ctrl+shift+9"], "command": "book_marks_key_set_nine" },
+
+  { "keys": ["ctrl+0"], "command": "book_marks_key_show_zero" },
+  { "keys": ["ctrl+1"], "command": "book_marks_key_show_one" },
+  { "keys": ["ctrl+2"], "command": "book_marks_key_show_two" },
+  { "keys": ["ctrl+3"], "command": "book_marks_key_show_three" },
+  { "keys": ["ctrl+4"], "command": "book_marks_key_show_four" },
+  { "keys": ["ctrl+5"], "command": "book_marks_key_show_five" },
+  { "keys": ["ctrl+6"], "command": "book_marks_key_show_six" },
+  { "keys": ["ctrl+7"], "command": "book_marks_key_show_seven" },
+  { "keys": ["ctrl+8"], "command": "book_marks_key_show_eight" },
+  { "keys": ["ctrl+9"], "command": "book_marks_key_show_nine" }
+]
